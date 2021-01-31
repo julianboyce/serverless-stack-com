@@ -94,7 +94,7 @@ This simply renders our homepage given that the user is not currently signed in.
 
 Now let's add a few lines to style this.
 
-{%change%} Add the following into `src/containers/Home.css`.
+{%change%} Create `src/containers/Home.css` and add the following into it.
 
 ``` css
 .Home .lander {
